@@ -1,0 +1,45 @@
+.incompetence{
+background-color: #FFFFFF;
+}
+
+.container {
+    display: grid;
+    grid-template-columns:1fr 2fr;
+  }
+.container img {
+    width: 100%;
+}
+.julie{
+    fill:auto;
+}
+
+.solo{
+    text-align: center;
+}
+
+.pretty-please{
+    background-color: #e39968;
+    padding: 10px;
+    color: #fffefa;
+    border-radius: 5px;
+    width: 100px;
+    display:inline;
+    
+}
+
+body{
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+/* 
+hex codes for funsies:
+
+background: just white tbh
+heading 1: #666666
+paragraph text: #929fb6
+input boxes/text: #929fb6
+subscribe button: #e39968
+text on subscribe button: #fffefa
+
+
+*/
