@@ -39,6 +39,7 @@ h2 {
 }
 
 #hero{
+    width: auto;
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
     margin-top: -100px;
@@ -67,7 +68,7 @@ h2 {
     }
 
 #hero-box{
-    border-width: 200px;
+   
     width: 100%;
     grid-column: 2/3;
     grid-row: 1/4;
@@ -87,7 +88,7 @@ h2 {
 
 #content{
     max-width: 1600px;
-       margin: 0 auto;
+    margin: 0 auto;
     font-family: 'Lora', serif;
     font-size: 22px;
 }
@@ -232,14 +233,20 @@ footer .social img{
     padding-top: 5px;
 }
 
-.card-img, .mountains {
+.card-img{
     border: 10px solid #d9c2a3;
     width: 100%;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #6f7364;
 }
 
-.card-img:hover, .mountains:hover{
+.mountains {
+    border: 10px solid #d9c2a3;
+    width: 100%;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+.card-img:hover{
     opacity: .6;
     transform: scale(1.1);
 }
@@ -284,6 +291,22 @@ header{
 }
 
 
+/*
+I have you on repeat
+
+Grasping for tender moments I hold on to like delicate keepsakes
+
+Moments wrapped in romance that end with bitter sunrises and goodbyes
+
+Moments so fragile and rare I wonder if they would have the same taste if not such a delicacy
+But I'd still devour you.
+
+As I lay here and recall years of wavering emotions, suppresses desires and volcanic erruptions that retreat into dormancy
+
+I wonder, could we ever flow together?
+
+Or are we just two twin souls finding each other in the wrong lifetime 
+*/
 
 
 
