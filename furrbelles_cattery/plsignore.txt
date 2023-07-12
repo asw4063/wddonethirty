@@ -1,0 +1,11 @@
+
+
+
+__Hex Codes__
+
+Orange (gross):#d67f3f
+
+Background color: #ececec (gray)
+Gray header boxes: #5e5c61
+
+Dark grey text: #5e5c61
