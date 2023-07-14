@@ -60,12 +60,7 @@ h2 {
     padding: 0px;
 }
 
-#hero-img{
-    width: auto;
-    border-width: 50px;
-    border-radius: 20px;
-    margin-top:150px;
-    }
+
 
 #hero-box{
    
@@ -92,6 +87,13 @@ h2 {
     font-family: 'Lora', serif;
     font-size: 22px;
 }
+
+#hero-img{
+
+    border-width: 50px;
+    border-radius: 20px;
+    margin-top:150px;
+    }
 
 .logo{
     width: 80px;

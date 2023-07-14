@@ -65,7 +65,7 @@ h1{
  color: white;
  padding: 20px;
  display: block;
- max-width: 350px;
+ max-width: 250px;
  border-radius: 15px;
 }
 
@@ -120,4 +120,13 @@ img{
 
 p{
     z-index: 3;
+}
+
+
+.pls{
+    box-shadow: 0px 0px 0px #6f736400;
+}
+
+.logo{
+    box-shadow: 0px 0px 0px #6f736400;
 }
