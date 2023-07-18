@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+body{
+    background-color: #ECECEC;
+    max-width: 1600px;
+}
+
+main{
+    width: 100%;
+    max-width: 1500px;
+    margin-left: 30px;
+    margin-right: 30px;
+    align-self: center;
+}
+p{
+    max-width: 1500px;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    color: #474649
+
+}
+header{
+    background-color: #cdcad3;
+    height: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.spacer{
+    width: 100%;
+    margin:50px
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.logo{
+    margin-left: 20px;
+    height: 100px;
+    
+}
+
+
+footer{
+    background-color: #cdcad3;
+    height: 200px;
+    display: grid;
+    grid-template-columns: 1fr 500px 1fr;
+    margin-top: 100px;
+}
+
+
+
+.garamond{
+    font-family: "EB Garamond", Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: #474649;
+    font-family: "EB Garamond", Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: #474649;
+    font-family: "EB Garamond", Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h3{
+    color: #474649;
+    font-family: "EB Garamond", Georgia, 'Times New Roman', Times, serif;
+}
+
+#big{
+    font-size: 300%;
+    
+}
+
+nav a{
+    
+    text-align: center;
+    text-decoration: none;
+    padding: 35px;
+
+}
+
+.hthing{
+    /* margin-top: 25px; */
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 10px;
+    font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    height: 50px;
+    color: #3a54b4;
+    font-size: 200%;
+    padding-top: 20px;
+
+    display: inline;
+    width:75%;
+    border-radius: 30px;
+    
+    
+}
+
+.hthing:hover{
+    color: #0137F7;
+    background-color: #ececec50;
+}
+
+
+
+.hthinghome{
+    /* margin-top: 25px; */
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    height: 50px;
+    color: #3a54b4;
+    font-size: 200%;
+    padding-top: 20px;
+    display: inline;
+    width:75%;
+    border-radius: 30px;
+    
+}
+
+.hthinghome:hover{
+    color: #0137F7;
+    background-color: #ececec50;
+}
+
+.help{
+    grid-column: 2/3;
+    align-self: center;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+   
+    /* background-color: orange; */
+    height: 200px;
+
+}
+
+.insta{
+
+    margin-left: -150px;
+    margin-top: 55px;
+    max-width: 75px;
+    padding:10px;
+    background-color:#3a54b4b4;
+    border-radius: 10px;
+    grid-column: 2/3;
+
+}
+
+.insta:hover{
+    background-color: #0137F7;
+}
+
+
+.visit{
+    font-family:"EB Garamond",Arial, Helvetica;
+    grid-row: 2/3;
+    grid-column: 1/4;
+    /* background-color: violet; */
+    font-size: 200%;
+
+}
+
+
+
+
+
+/* 
+.whitepls{
+    margin-bottom: 50px;
+} */

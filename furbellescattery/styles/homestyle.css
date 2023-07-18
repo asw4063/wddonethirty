@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+
+
+
+.garamond{
+    font-family: "EB Garamond", Georgia, 'Times New Roman', Times, serif;
+}
+
+.text{
+    width: 74%;
+    margin-left: 10px;
+    font-size: 120%;
+    /* line-height: 130%; */
+}
+
+.imgright{
+    float: right;
+    margin-top: 30px;
+    margin-right:100px;
+    margin-left: 30px;
+    border-radius: 15px;
+    
+
+}
+
+.sections{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    float: right;
+}
