@@ -1,0 +1,22 @@
+
+
+#big{
+    font-size: 300%;
+    
+}
+
+.imgright{
+    float: right;
+    margin-top: 30px;
+    margin-right:150px;
+    margin-left: 30px;
+    border-radius: 15px;
+    
+
+}
+
+#adopt3{
+    width: 100%;
+    padding: 20px;
+    background-color: blueviolet;
+}
