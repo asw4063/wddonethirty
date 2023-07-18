@@ -85,10 +85,7 @@ h3{
     font-family: "EB Garamond", Georgia, 'Times New Roman', Times, serif;
 }
 
-#big{
-    font-size: 300%;
-    
-}
+
 
 nav a{
     
@@ -169,6 +166,13 @@ nav a{
     border-radius: 10px;
     grid-column: 2/3;
 
+}
+
+.text{
+    width: 74%;
+    margin-left: 10px;
+    font-size: 120%;
+    /* line-height: 130%; */
 }
 
 .insta:hover{
